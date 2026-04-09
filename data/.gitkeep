@@ -1,0 +1,7 @@
+# Đặt các file CSV dữ liệu Retailrocket vào thư mục này:
+# - events.csv
+# - category_tree.csv
+# - item_properties_part1.csv
+# - item_properties_part2.csv
+#
+# Tải từ: https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
